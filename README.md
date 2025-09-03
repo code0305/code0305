@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[GramUrja](https://github.com/code0305/GramUrja)**
-- 🌱 I’m learning: **Full Stack Development, AI/ML**
+- 🔭 I’m currently working on: **[Portfolio](https://github.com/code0305/Portfolio)**
+- 🌱 I’m learning: **Full Stack Developer**
 - 📫 How to reach me: **madayiakash@gmail.com**
 - ⚡ Fun fact: I love solving puzzles & exploring open source!
 
