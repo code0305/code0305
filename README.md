@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[Portfolio](https://github.com/code0305/Portfolio)**
+- 🔭 I’m currently working on: **[Chat-Applician](https://github.com/code0305/chat-app)**
 - 🌱 I’m learning: **Full Stack Developer**
 - 📫 How to reach me: **madayiakash@gmail.com**
 - ⚡ Fun fact: I love solving puzzles & exploring open source!
