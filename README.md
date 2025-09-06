@@ -1,7 +1,7 @@
 <h1 align="center">🧐 Hi Everyone , I'm Akash M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=36BCF7&width=500&lines=Welcome+to+my+GitHub!;I+love+building+real+time+projects;Let's+connect+and+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=36BCF7&width=550&lines=Welcome+to+my+GitHub!;I+love+building+real+time+projects;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </p>
 <img align="right" alt="coding" width="400" height="400"src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
