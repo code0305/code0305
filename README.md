@@ -51,9 +51,6 @@
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0305&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code0305&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 
