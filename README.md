@@ -44,18 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code0305&theme=tokyonight" alt="GitHub Streak" />
-
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0305&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
----
-
 
 
 ## 📫 Connect with me
